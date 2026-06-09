@@ -23,6 +23,7 @@ Dự án nghiên cứu bài toán **Salient Object Detection (SOD)** sử dụng
 | S-measure ↑ | 0.9161 | **0.9250** | ↑ +0.97% |
 
 ---
+## Link data-set and kết quả: https://drive.google.com/drive/folders/1TxRmD0v-zoxMwwgj8gddqSDhHUVEi0xq?fbclid=IwY2xjawSU9YFleHRuA2FlbQIxMABicmlkETFMbkQ5bjZSNlk1YnNzU3I2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHub5TpdQ-1bJKRfMl0wTAj_60aU8c4COaDHyyG9JhXDpxVUTbtJDrPwzmgaS_aem_aCAVVCd-dBIMBgOHnLaEKg
 
 ## Cài đặt & Sử dụng
 
