@@ -57,15 +57,5 @@ python inference.py --image path/to/image.jpg --checkpoint checkpoints/best.pth
 | Input size | 256×256 |
 
 ---
-
 ## Nhóm thực hiện
-
-**PBL4 — Khoa Điện Tử Viễn Thông, ĐH Bách khoa Đà Nẵng (2025–2026)**
-
-| Thành viên | Email |
-|------------|-------|
-| Nguyễn Văn Quý | nquy1357@gmail.com |
-| Hồ Nguyên Tâm | honguyentam57@gmail.com |
-| Trần Đăng Bách | bach9747@gmail.com |
-
-**GVHD:** TS. Hồ Phước Tiến
+Q-B-T
